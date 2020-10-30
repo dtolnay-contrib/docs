@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["serde_test"] = [{"text":"impl&lt;'de, D&gt; VariantAccess&lt;'de&gt; for Readable&lt;D&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;D: VariantAccess&lt;'de&gt;,&nbsp;</span>","synthetic":false,"types":[]},{"text":"impl&lt;'de, D&gt; VariantAccess&lt;'de&gt; for Compact&lt;D&gt; <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;D: VariantAccess&lt;'de&gt;,&nbsp;</span>","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
